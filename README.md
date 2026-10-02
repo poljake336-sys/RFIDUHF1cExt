@@ -33,11 +33,8 @@ RFID = Новый("AddIn.RFID.RFIDUHF");
 E:\RFIDUHF1cExt\build.cmd
 ```
 
-SDK: `C:\Android\Sdk` (junction на реальный SDK).  
 JDK: Android Studio JBR 21.  
 Gradle 8.9 + AGP 8.7.
-
-Старые проекты в `vendor/` / `reference/` с Gradle 5/7 **не импортируются** в IDE (см. `.vscode/settings.json`) — из‑за них были ошибки «Gradle 5.4.1 + Java 21».
 
 ## API
 
