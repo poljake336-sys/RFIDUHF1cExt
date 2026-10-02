@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ClientApplicationInterface xmlns="http://v8.1c.ru/8.2/managed-application/core" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="InterfaceLayouter">
+	<top>
+		<panel id="83a512aa-b2ec-4ab3-bcaf-a9766e778e19">
+			<uuid>6b261eac-2ac6-47ae-94ba-c2298b68b436</uuid>
+		</panel>
+	</top>
+	<left>
+		<panel id="b3c4265a-3ee2-4044-b534-1b8ff9ccd854">
+			<uuid>510052e1-51f2-4597-bff2-8b1e9d9f5c57</uuid>
+		</panel>
+	</left>
+	<panelDef id="510052e1-51f2-4597-bff2-8b1e9d9f5c57"/>
+	<panelDef id="f01f1c0e-5932-4d46-879e-9da8943ed27b"/>
+	<panelDef id="e7d8c764-be01-4a37-9a09-69b02c55cc2d"/>
+	<panelDef id="6b261eac-2ac6-47ae-94ba-c2298b68b436"/>
+	<panelDef id="4222e87e-17b8-4bf0-8a49-b15a88d85e06"/>
+</ClientApplicationInterface>
